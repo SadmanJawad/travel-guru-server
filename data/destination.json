@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is a town located in the southeastern part of Bangladesh, and it's famous for its long natural sea beach. The beach is one of the longest in the world, stretching over 120 kilometers. It's a popular tourist destination that attracts both domestic and international travelers. Visitors can enjoy swimming, surfing, and other water activities or simply relax on the beach and soak in the stunning scenery. In addition to the beach, Cox's Bazar also offers visitors a chance to explore the local culture and customs of the area, including visiting the nearby Buddhist temple and pagodas.",
+        "imageLink": "https://i.ibb.co/KyB4g5N/Rectangle-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Sundarbans",
+        "description": "The Sundarbans is a vast forest in the coastal region of the Bay of Bengal, spread over Bangladesh and India. It is the largest mangrove forest in the world and a UNESCO World Heritage Site. The forest is known for its Bengal tigers, saltwater crocodiles, and a diverse range of flora and fauna. Visitors can take a boat ride through the forest and observe the wildlife in their natural habitat. The Sundarbans also offers visitors a chance to explore the local culture and customs of the area, including visiting the nearby traditional fishing villages.",
+        "imageLink": "https://i.ibb.co/588pWb3/Sajek.png"
+    },
+    {
+        "id": 3,
+        "name": "Srimangal",
+        "description": "Located in the northeast region of Bangladesh, Srimangal is famous for its tea gardens and natural beauty. The area is home to some of the best tea gardens in the world, and visitors can learn about the tea-making process and enjoy the natural beauty and wildlife sanctuaries in the area. The Lawachara National Park is a must-visit destination for nature lovers and offers a chance to spot a variety of birds and other wildlife. In addition, Srimangal is also known for its vibrant cultural heritage, including its indigenous people and their unique customs and traditions.",
+        "imageLink": "https://i.ibb.co/jydJZBw/Sreemongol.png"
+    },
+    {
+        "id": 4,
+        "name": "Rangamati",
+        "description": "Rangamati is a scenic hill district located in the southeast part of Bangladesh. The district is famous for its natural beauty, including lakes, waterfalls, and ethnic communities. The Kaptai Lake is a must-visit destination for visitors, offering a stunning view of the surrounding hills and waterfalls. Visitors can go trekking, hiking, and explore the local culture and customs of the region. Rangamati is also known for its traditional handicrafts, including weaving and bamboo crafts.",
+        "imageLink": "https://i.ibb.co/CQmp7cH/sundorbon.png"
+    },
+    {
+        "id": 5,
+        "name": "Paharpur",
+        "description": "Located in the northwestern part of Bangladesh, Paharpur is an ancient Buddhist monastery dating back to the 8th century. It is a UNESCO World Heritage Site and is considered one of the most important archaeological sites in South Asia. Visitors can explore the ruins and learn about the history and culture of the area. In addition to the monastery, Paharpur also offers visitors a chance to explore the local culture and customs of the area, including visiting the nearby traditional villages.",
+        "imageLink": "https://i.ibb.co/588pWb3/Sajek.png"
+    },
+    {
+        "id": 6,
+        "name": "Sajek Valley",
+        "description": "Sajek Valley is a picturesque hill station located in the Chittagong Hill Tracts in the southeast part of Bangladesh. It's known for its stunning natural beauty, including lush green forests, rolling hills, and meandering rivers. Visitors can go trekking, hiking, and explore the local culture and customs of the region. The valley is also home to the indigenous communities of Bangladesh, and visitors can learn about their unique way of life and traditional customs.",
+        "imageLink": "https://i.ibb.co/CQmp7cH/sundorbon.png"
+    }
+]

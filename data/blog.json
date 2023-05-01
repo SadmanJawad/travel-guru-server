@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "blog_name": "Top 5 Must-Visit Places in Dhaka",
+      "blog": "Dhaka, the capital of Bangladesh, is a vibrant and bustling city with a rich history and culture. Here are the top 5 places to visit in Dhaka:\n1. Ahsan Manzil\n2. Lalbagh Fort\n3. Dhakeshwari Temple\n4. National Parliament House\n5. National Museum\n\nRead more about these places and how to make the most of your visit in our blog.",
+      "img_link": "https://images.pexels.com/photos/14319623/pexels-photo-14319623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "blog_name": "5 Tips for Traveling to Cox's Bazar",
+      "blog": "Cox's Bazar is the longest natural sea beach in the world, and a popular destination for both locals and tourists. Here are 5 tips to help you make the most of your trip:\n1. Plan ahead for accommodation\n2. Visit early in the morning to avoid crowds\n3. Try local seafood delicacies\n4. Take a dip in the sea\n5. Explore the nearby Himchori Waterfall\n\nRead our blog for more details and recommendations.",
+      "img_link": "https://images.unsplash.com/photo-1619177383949-f03975e50b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 3,
+      "blog_name": "Discover the Beauty of Srimangal",
+      "blog": "Srimangal is a town in northeastern Bangladesh known for its tea gardens and natural beauty. Here are some must-visit places in Srimangal:\n1. Lawachara National Park\n2. Madhabpur Lake\n3. Baikka Beel Wetland Sanctuary\n4. Tea Gardens\n\nLearn more about these attractions and how to plan your trip in our blog.",
+      "img_link": "https://thumbs.dreamstime.com/z/tea-gerden-srimangal-bangladesh-166287441.jpg"
+    },
+    {
+      "id": 4,
+      "blog_name": "Chittagong Hill Tracts: A Hidden Gem in Bangladesh",
+      "blog": "The Chittagong Hill Tracts is a region in southeastern Bangladesh known for its natural beauty and diverse indigenous cultures. Here are some places to visit in the Chittagong Hill Tracts:\n1. Nilgiri Hill\n2. Boga Lake\n3. Sajek Valley\n4. Rangamati\n\nDiscover more about this hidden gem in our blog.",
+      "img_link": "https://bangladeshus.com/wp-content/uploads/2017/10/Chittagong-Hill-Tracts-of-Bangladesh.jpg" 
+    },
+    {
+      "id": 5,
+      "blog_name": "5 Things to Do in Sundarbans",
+      "blog": "Sundarbans is the largest mangrove forest in the world, and a UNESCO World Heritage Site. Here are 5 things to do in Sundarbans:\n1. Take a boat tour\n2. Spot wildlife, including the Royal Bengal Tiger\n3. Visit the Katka Watch Tower\n4. Explore the nearby Hiron Point\n5. Learn about local culture and history at the Sundarbans Museum\n\nRead our blog for more information and tips.",
+      "img_link": "https://www.daily-sun.com/assets/news_images/2021/10/31/Sundarbans-ds.jpg"
+    }
+  ]
+  
